@@ -3,3 +3,6 @@ https://www.nature.com/articles/s41567-019-0648-8
 
 Building Dynamical Circuits:
 https://docs.quantum.ibm.com/build/classical-feedforward-and-control-flow
+
+Example of using a dynamical circuit with code:
+https://learning.quantum.ibm.com/tutorial/repeat-until-success
